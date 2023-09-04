@@ -5,7 +5,7 @@ gitdb==4.0.7
 GitPython==3.1.14
 htmlmin==0.1.12
 Jinja2==2.11.3
-joblib==1.0.1
+joblib==1.2.0
 jsmin==3.0.0
 livereload==2.6.3
 lunr==0.5.8
